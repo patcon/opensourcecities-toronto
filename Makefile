@@ -7,6 +7,7 @@ generate: ## Regenerate the README from various sources
 	@bin/data2readme
 
 travis-update: ## Commit and push changes to GitHub (eg. from TravisCI)
+	@echo "Preparing to push changes to GitHub repo directory..."
 	@bin/push-to-github
 
 # Boilerplate for pretty makefile help.

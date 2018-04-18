@@ -1,0 +1,6 @@
+#!/usr/bin/env python2
+
+print("--- Changed detected.")
+print("--- Committing files to new branch...")
+print("--- Push branch to GitHub...")
+print("--- Creating pull request...")
