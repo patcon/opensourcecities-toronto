@@ -1,5 +1,6 @@
 # Fake travis file to help regenerate this directory regularly
 # See: https://gist.github.com/willprice/e07efd73fb7f13f917ea
+# Our version of the above could open a PR instead of committing directly
 # See: https://docs.travis-ci.com/user/cron-jobs/
 
 script:
