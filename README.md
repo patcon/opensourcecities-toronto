@@ -129,6 +129,20 @@ Please do! If you know of any resources that aren't here, add them. If you have 
 
 If adding to the list, please keep the items alphabetized. Thank you.
 
+Whether you're a maintainer of your own project, or someone with
+know-how of some great local maintainers, we hope you'll help us build this resource!
+
+There are a few ways to get into this directory (in order of
+preference):
+
+1. Add a repository to the [`data.yml`](data.yml) file.
+1. Tag a repository with the `builtin-toronto` GitHub
+   topic.<sup>\*</sup>
+1. Add an [`opensourcecities.json`](http://example.com) file to the root
+   of a repository.<sup>\*</sup>
+
+\*<sup>The repository will be added in the nightly rebuild!</sup>
+
 
 ## Maintainers
 

@@ -1,0 +1,7 @@
+# Fake travis file to help regenerate this directory regularly
+# See: https://gist.github.com/willprice/e07efd73fb7f13f917ea
+# See: https://docs.travis-ci.com/user/cron-jobs/
+
+script:
+  - make generate
+  - make update-github
