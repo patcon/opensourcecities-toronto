@@ -1,6 +1,10 @@
 # Fake travis file to help regenerate this directory regularly
+#
+# We could equip travis with an ecrypted deploy key or github api token to push back to github like so:
 # See: https://gist.github.com/willprice/e07efd73fb7f13f917ea
 # Our version of the above could open a PR instead of committing directly
+#
+# Run nightly via Travis cron
 # See: https://docs.travis-ci.com/user/cron-jobs/
 
 script:
