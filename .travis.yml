@@ -4,4 +4,4 @@
 
 script:
   - make generate
-  - make update-github
+  - make travis-update
